@@ -1,0 +1,44 @@
+{
+    "coord":{
+        "lon":11.3945,
+        "lat":47.2627
+    },
+    "weather":[
+        {
+            "id":800,
+            "main":"Clear",
+            "description":"clear sky",
+            "icon":"01n"
+        }
+    ],
+    "base":"stations",
+    "main":{
+        "temp":4.54,
+        "feels_like":1.03,
+        "temp_min":2.93,
+        "temp_max":5.21,
+        "pressure":1025,
+        "humidity":64
+    },
+    "visibility":10000,
+    "wind":{
+        "speed":4.47,
+        "deg":248,
+        "gust":8.94
+    },
+    "clouds":{
+        "all":0
+    },
+    "dt":1676571760,
+    "sys":{
+        "type":1,
+        "id":6872,
+        "country":"AT",
+        "sunrise":1676528328,
+        "sunset":1676565511
+    },
+    "timezone":3600,
+    "id":2775220,
+    "name":"Innsbruck",
+    "cod":200
+}
